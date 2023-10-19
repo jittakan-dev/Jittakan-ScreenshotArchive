@@ -16,14 +16,17 @@ The web is built as a Single Page Application (SPA) using Python, Django, and Re
 ## Screenshots
 
 The initial page contains an ordered list of the Thai alphabet and a comprehensive collection of weedy rice varieties in the main section. Users have the option to choose a specific weedy rice variety directly or select one by using the Thai alphabet. You can easily navigate through the alphabet list by sliding until you reach the last letter.
+
 ![ContentOfWeedyRices Screenshot](1.png)
 
 
 When a specific alphabet is chosen, all the weedy rices corresponding to the selected letter will be displayed in a list. The user can then make a selection from this list, and detailed information about the chosen weedy rice will be presented in the main section.
+
 ![ContentOfWeedyRices Screenshot](2.png)
 
 ![ContentOfWeedyRices Screenshot](3.png)
 
 Users can also access summaries and statistics for all weed-related incidents in the summary section.
+
 ![ContentOfWeedyRices Screenshot](4.png)
 
