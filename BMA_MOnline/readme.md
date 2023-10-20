@@ -38,14 +38,17 @@ Firstpage is an authentication system that assigns roles based on the actual res
 ![BMA_MOnline Screenshot](1.png)
 
 Users with an admin role will have access to all subsystems.
+
 ![BMA_MOnline Screenshot](2.png)
 
 Member management panel
+
 ![BMA_MOnline Screenshot](3.png)
 
 ![BMA_MOnline Screenshot](4.png)
 
 The Audit Report Management Creation System (M)
+
 ![BMA_MOnline Screenshot](5.png)
 
 ![BMA_MOnline Screenshot](6.png)
@@ -53,6 +56,7 @@ The Audit Report Management Creation System (M)
 ![BMA_MOnline Screenshot](7.png)
 
 Merge relevant M in to one word file then the completed M will be converted to PDF
+
 ![BMA_MOnline Screenshot](8.png)
 
 ![BMA_MOnline Screenshot](MergeM.png)
@@ -60,9 +64,9 @@ Merge relevant M in to one word file then the completed M will be converted to P
 ![BMA_MOnline Screenshot](w4.png)
 
 The Report Download/Upload System
+
 ![BMA_MOnline Screenshot](9.png)
 
 ![BMA_MOnline Screenshot](10.png)
 
-![BMA_MOnline Screenshot](11.png)
 
