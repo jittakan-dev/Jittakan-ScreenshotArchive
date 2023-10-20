@@ -1,8 +1,6 @@
 
 # BMA_MOnline
 
-Collection of tropical weedy rice sorted by Thai alphabet.
-
 ## Objective:
 The objective of this project is to design and develop M-Online, a JAVA-based internal audit login system, with a comprehensive user management system that assigns roles based on departmental positions. The system will comprise four distinct subsystems: Officer Management System, Audit Report Management System, Report Generator, and Report Download/Upload System.
 
